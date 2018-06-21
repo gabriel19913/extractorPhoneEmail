@@ -1,2 +1,2 @@
 # extractorPhoneEmail
-This program copies a text from the clipboard and paste on the terminal only the phone numbers and email address found.
+This program copies a text from the clipboard and selects to be paste only the phone numbers and email address found.
